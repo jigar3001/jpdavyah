@@ -22,9 +22,9 @@ body {
 @media all and (max-width: 480px) {
   /* put your css styles in here */
   #fh5co-header {
-    background-position-y: 5% !important;
+    background-position-y: 0% !important;
     background-position-x: 43% !important;
-    background-size: 225% !important;
+    background-size: 250% !important;
   }
 }
 
